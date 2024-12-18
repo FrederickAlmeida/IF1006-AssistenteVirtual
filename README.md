@@ -4,7 +4,7 @@ Repositório para as atividades da disciplina IF1006 - Tópicos Avançados em SI
 ## Equipe:
 - Brenda Guerra
 - Caio Possidio
-- Frederick Almeida
+- Frederick Almeida (Lider)
 - Rafaela Pitanga
 
 ## Imersão:
